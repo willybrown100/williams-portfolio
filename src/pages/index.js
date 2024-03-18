@@ -42,7 +42,7 @@ export default function Home() {
                 projects and articles, showcasing my expertise in React.js and
                 web development.
               </p>
-              <div className="flex items-center self-start lg:self-center">
+              <div className="flex items-center  self-start lg:self-center">
                 <Link
                   href="/dummy.pdf"
                   target={"_blank"}
