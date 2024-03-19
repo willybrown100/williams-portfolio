@@ -48,24 +48,23 @@ function about() {
               <h2 className="mb-4 text-lg font-bold uppercase dark:text-stone-100 text-dark/75">
                 biography
               </h2>
-              <p className="font-medium dark:text-light">
-                Hi, I&apos;m williams, a web developer  with a
-                passion for creating beautiful, functional, and user-centered
-                digital experiences. With 1 years of experience in the field. I
-                am always looking for new and innovative ways to bring my
-                clients visions to life.
+              <p className="font-medium text-dark dark:text-light">
+                Hi, I&apos;m williams, a web developer with a passion for
+                creating beautiful, functional, and user-centered digital
+                experiences. With 1 years of experience in the field. I am
+                always looking for new and innovative ways to bring my clients
+                visions to life.
               </p>
-              <p className="font-medium dark:text-light">
+              <p className="font-medium text-dark dark:text-light">
                 I believe that design is about more than just making things look
                 pretty it&apos;s about solving problems and creating intuitive,
                 enjoyable experiences for users.
               </p>
-              <p className="font-medium">
-                Whether I&apos;m working on a website or other
-                digital product, I bring my commitment to design excellence and
-                user-centered thinking to every project I work on. I look
-                forward to the opportunity to bring my skills and passion to
-                your next project.
+              <p className="font-medium text-dark">
+                Whether I&apos;m working on a website or other digital product,
+                I bring my commitment to design excellence and user-centered
+                thinking to every project I work on. I look forward to the
+                opportunity to bring my skills and passion to your next project.
               </p>
             </div>
             <div className="col-span-3 xl:col-span-4 relative h-max rounded-2xl border-solid border-dark border-2 bg-light p-8 first:mt-0  border-r-8 border-b-8 dark:border-light dark:bg-dark md:order-1 md:col-span-8">

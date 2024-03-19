@@ -5,7 +5,5 @@ function Layout({children,className}) {
 }>{children}</div>
  );
 }
-// {
-//   `w-[85vw]  bg-light${className} m-auto dark:bg-dark max-w-[1170px]`;
-// }
+
 export default Layout
